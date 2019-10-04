@@ -1,6 +1,7 @@
 hola
-<<<<<<< HEAD
 
+<<<<<<< HEAD
+linea intermedia para salvar error
 
 // 4/10 agrego otra linea
 =======
