@@ -1,9 +1,4 @@
 hola
 
-<<<<<<< HEAD
-linea intermedia para salvar error
 
 // 4/10 agrego otra linea
-=======
-como estas?
->>>>>>> 0f9dab763ad96eb7c46ae3da9bc8dba28b8e2beb
